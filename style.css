@@ -1,0 +1,46 @@
+
+
+.img{
+    width:15px;
+    height:15px;
+    padding-bottom: 10px;
+}
+.a{
+   text-align: right;
+   font-size: 20px;
+   padding-top: 30px;
+   padding-right: 20px;
+   padding-bottom: 20px;
+  
+}
+span{
+    color:blue;
+
+}
+.table{
+    border:1px solid rgba(128, 128, 128, 0.884);
+   
+    margin:40px;
+    padding-left: 40px;
+    padding-right: 40px;
+   box-shadow: 10px 10px lightblue;
+    border-radius: 6px;
+}
+.p{
+    font-size: 15px;
+    padding-top: -20px;
+}
+
+input[type="text"]{
+    padding-right: 40px;
+    color:beige;
+}
+button{
+    padding-left: 80px;
+    padding-right: 80px;
+   background-color:  rgb(15, 97, 129);
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+
+}
